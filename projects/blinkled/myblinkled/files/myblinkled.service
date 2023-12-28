@@ -1,0 +1,10 @@
+[Unit]
+Description=Blink LED
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/myblinkled
+Restart=always
+
+[Install]
+WantedBy=default.target
