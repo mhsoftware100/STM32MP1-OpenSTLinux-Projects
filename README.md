@@ -33,10 +33,12 @@ The general directory serves as the central hub for essential information and re
 
 Explore various project examples organized into dedicated sub-directories. Each project focuses on specific functionalities, allowing you to delve deeper into the capabilities of the STM32MP157F-DK2 board.
 
-#### Build and Deploy
+##### Build and Deploy
 
 The build and deploy directory provides fundamental information about building and deploying projects on the STM32MP157F-DK2 board. Learn about the necessary tools, setup, and deployment processes.
-  
+ 
+##### Blink LED
+This script automates the setup and build process for the BlinkLED project within the Yocto Project environment for STM32MP1.
 
 ## Contributing
 
