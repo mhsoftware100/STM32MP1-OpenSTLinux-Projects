@@ -14,8 +14,8 @@ Before running this script, ensure your Yocto Project environment is set up corr
 
 
 ## Learn More
-Explore how to create a new open-embedded layer in the STM32MP1 environment by referring to the official documentation: How to create a new open-embedded layer.
+Explore how to create a new open-embedded layer in the STM32MP1 environment by referring to the official documentation: [OpenSTLinux Documentation](https://wiki.st.com/stm32mpu/wiki/How_to_create_a_new_open_embedded_layer)
 
-[OpenSTLinux Documentation](https://wiki.st.com/stm32mpu/wiki/How_to_create_a_new_open_embedded_layer)
+
 
 
