@@ -38,7 +38,7 @@ Explore various project examples organized into dedicated sub-directories. Each 
 The build and deploy directory provides fundamental information about building and deploying projects on the STM32MP157F-DK2 board. Learn about the necessary tools, setup, and deployment processes.
  
 ##### Blink LED
-This script automates the setup and build process for the BlinkLED project within the Yocto Project environment for STM32MP1.
+Automate the setup and build process for the BlinkLED project within the Yocto Project environment for STM32MP1.
 
 ## Contributing
 
