@@ -5,9 +5,9 @@ Prerequisites
 
 Before running this script, ensure that you have the following prerequisites installed:
 
-* [Git](https://git-scm.com/)
+* [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Repo](https://gerrit.googlesource.com/git-repo)
-* [Yocto Project](https://www.yoctoproject.org/)
+* [Yocto Project](https://docs.yoctoproject.org/1.8/yocto-project-qs/yocto-project-qs.html)
     
     
 ## Usage
